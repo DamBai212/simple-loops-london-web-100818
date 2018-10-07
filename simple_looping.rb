@@ -7,7 +7,7 @@ def loop_iterator(number_of_times)
    loop do
      puts phrasecount += 1
      if count == number_of_times
-       breaks
+       break
      end
    end
 end
